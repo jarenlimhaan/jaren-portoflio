@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Jaren Lim — A Little Engineering Journey',
+  title: 'Jaren Lim’s Little Rails — Interactive Portfolio',
   description:
     'Explore Jaren Lim’s work in backend engineering, platform reliability, and applied AI aboard a cozy miniature woodland railway.',
 };
